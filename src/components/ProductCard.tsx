@@ -1,4 +1,3 @@
-import { CSSProperties, JSX, createContext } from 'react';
 import {
   InitialValues,
   Product,
@@ -6,6 +5,7 @@ import {
   ProductContextProps,
   onChangeArgs,
 } from '../interfaces/interfaces';
+import React, { CSSProperties, JSX, createContext } from 'react';
 
 import styles from '../styles/styles.module.css';
 import { useProduct } from '../hooks/useProduct';
