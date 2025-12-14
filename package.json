@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/dieginin/nb-product-card",
+    "type": "git"
+  },
+  "homepage": "https://nextbale.com",
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +65,11 @@
     "tslib": "^2.8.1",
     "typescript": "^5.9.3",
     "postcss": "^8.5.6"
-  }
+  },
+  "keywords": [
+    "react",
+    "product",
+    "card",
+    "NextBale"
+  ]
 }
